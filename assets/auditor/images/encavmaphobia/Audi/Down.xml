@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Down.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="2010" y="3243" width="978" height="740" frameX="-19" frameY="-131" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0001" x="5" y="3237" width="978" height="761" frameX="-19" frameY="-110" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0002" x="993" y="3243" width="1007" height="736" frameX="-19" frameY="-135" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0003" x="1069" y="2501" width="1024" height="732" frameX="-18" frameY="-139" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0004" x="5" y="2496" width="1054" height="731" frameX="-8" frameY="-140" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0005" x="5" y="1727" width="1066" height="759" frameX="-4" frameY="-112" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0006" x="1092" y="1704" width="1077" height="787" frameX="0" frameY="-84" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0007" x="2179" y="1699" width="1077" height="830" frameX="0" frameY="-41" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0008" x="2179" y="5" width="1077" height="842" frameX="0" frameY="-29" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0009" x="5" y="886" width="1077" height="831" frameX="0" frameY="-40" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0010" x="2179" y="857" width="1077" height="832" frameX="0" frameY="-39" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0011" x="1092" y="5" width="1077" height="847" frameX="0" frameY="-24" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0012" x="1092" y="862" width="1077" height="832" frameX="0" frameY="-39" frameWidth="1077" frameHeight="871"/>
+	<SubTexture name="down0013" x="5" y="5" width="1077" height="871"/>
+</TextureAtlas>

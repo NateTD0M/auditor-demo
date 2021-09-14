@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="breakfloor.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="breakstuff0000" x="0" y="0" width="1135" height="607"/>
+	<SubTexture name="breakstuff0001" x="1135" y="0" width="1135" height="607"/>
+	<SubTexture name="breakstuff0002" x="2270" y="0" width="1135" height="607"/>
+	<SubTexture name="breakstuff0003" x="0" y="607" width="1135" height="607"/>
+	<SubTexture name="breakstuff0004" x="1135" y="607" width="1135" height="607"/>
+	<SubTexture name="breakstuff0005" x="2270" y="607" width="1135" height="607"/>
+	<SubTexture name="breakstuff0006" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0007" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0008" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0009" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0010" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0011" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0012" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0013" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0014" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0015" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0016" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0017" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0018" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff0019" x="0" y="1214" width="1135" height="607"/>
+	<SubTexture name="breakstuff_static0000" x="1135" y="1214" width="1132" height="607"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rage.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0000" x="5" y="821" width="809" height="786" frameX="-63" frameY="-53" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0001" x="4386" y="5" width="831" height="806" frameX="-59" frameY="-28" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0002" x="5227" y="5" width="873" height="767" frameX="-24" frameY="-52" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0003" x="6110" y="5" width="855" height="781" frameX="-42" frameY="-38" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0004" x="2666" y="5" width="864" height="798" frameX="-33" frameY="-21" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0005" x="912" y="5" width="887" height="800" frameX="-10" frameY="-19" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0006" x="5" y="5" width="897" height="806" frameX="0" frameY="-13" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0007" x="3540" y="5" width="836" height="819" frameX="-61" frameY="0" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0008" x="4259" y="1616" width="748" height="803" frameX="-144" frameY="-19" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0009" x="1508" y="1635" width="741" height="788" frameX="-131" frameY="-68" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0010" x="3263" y="1637" width="748" height="772" frameX="-134" frameY="-87" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0011" x="5988" y="1607" width="775" height="788" frameX="-107" frameY="-70" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0012" x="3464" y="834" width="785" height="793" frameX="-97" frameY="-68" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0013" x="2666" y="813" width="788" height="807" frameX="-94" frameY="-52" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0014" x="5227" y="782" width="820" height="795" frameX="-62" frameY="-64" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0015" x="6873" y="803" width="815" height="782" frameX="-67" frameY="-77" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0016" x="4386" y="821" width="797" height="785" frameX="-85" frameY="-74" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0017" x="6057" y="796" width="806" height="801" frameX="-76" frameY="-58" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0018" x="6975" y="5" width="828" height="788" frameX="-54" frameY="-71" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0019" x="1809" y="5" width="847" height="816" frameX="-35" frameY="-43" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0020" x="1710" y="831" width="785" height="794" frameX="-97" frameY="-65" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0021" x="6773" y="2402" width="694" height="781" frameX="-188" frameY="-78" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0022" x="763" y="1632" width="735" height="795" frameX="-147" frameY="-64" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0023" x="5" y="1617" width="748" height="796" frameX="-134" frameY="-63" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0024" x="5017" y="2388" width="723" height="792" frameX="-159" frameY="-67" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0025" x="2505" y="1630" width="748" height="793" frameX="-134" frameY="-66" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0026" x="6873" y="1595" width="775" height="797" frameX="-107" frameY="-62" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0027" x="5193" y="1587" width="785" height="791" frameX="-97" frameY="-68" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0028" x="912" y="815" width="788" height="807" frameX="-94" frameY="-52" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0029" x="5227" y="782" width="820" height="795" frameX="-62" frameY="-64" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0030" x="6873" y="803" width="815" height="782" frameX="-67" frameY="-77" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0031" x="4386" y="821" width="797" height="785" frameX="-85" frameY="-74" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0032" x="6057" y="796" width="806" height="801" frameX="-76" frameY="-58" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0033" x="6975" y="5" width="828" height="788" frameX="-54" frameY="-71" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0034" x="1809" y="5" width="847" height="816" frameX="-35" frameY="-43" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0035" x="1710" y="831" width="785" height="794" frameX="-97" frameY="-65" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0036" x="6773" y="2402" width="694" height="781" frameX="-188" frameY="-78" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0037" x="763" y="1632" width="735" height="795" frameX="-147" frameY="-64" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0038" x="5" y="1617" width="748" height="796" frameX="-134" frameY="-63" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0039" x="5017" y="2388" width="723" height="792" frameX="-159" frameY="-67" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0040" x="2505" y="1630" width="748" height="793" frameX="-134" frameY="-66" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0041" x="6873" y="1595" width="775" height="797" frameX="-107" frameY="-62" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0042" x="5193" y="1587" width="785" height="791" frameX="-97" frameY="-68" frameWidth="897" frameHeight="861"/>
+	<SubTexture name="BleatWorkPlzIfuckingwaste3hours0043" x="912" y="815" width="788" height="807" frameX="-94" frameY="-52" frameWidth="897" frameHeight="861"/>
+</TextureAtlas>
